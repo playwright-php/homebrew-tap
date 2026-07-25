@@ -1,4 +1,4 @@
-# Playwright-php Tap
+# Playwright PHP Homebrew Tap
 
 ## How do I install these formulae?
 
